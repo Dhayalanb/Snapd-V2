@@ -1,8 +1,8 @@
 # Snapd V2
 
-## Modified version of the original code found  (https://www.exploit-db.com/exploits/46361)
+## Modified version of the original code found [Here](https://www.exploit-db.com/exploits/46361)
 This modified exploit of the original exploit by @init_string, takes the command to execute from the command line and runs it as root. This removes the need to compile a snap everytime one needs to run a different command.
 
 
-Original Finder : [@init_string] (https://twitter.com/init_string) 
+Original Finder : [@init_string](https://twitter.com/init_string) 
 Edited : [@D3fa1t](https://twitter.com/D3fa1t_)
